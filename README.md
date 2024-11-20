@@ -35,7 +35,7 @@ This project combines robotics and wireless communication to create a versatile 
   
    
 2. Software:
-     * Arduino IDE:smile:
+     * Arduino IDE 
 
 # Features:
 1. Bluetooth Control:
@@ -67,7 +67,7 @@ This project combines robotics and wireless communication to create a versatile 
 # Applications:
 1. Military: Navigate through complex terrains while avoiding obstacles.
 2. Security: Patrol areas with autonomous obstacle detection.
-3. Robotics: Teach concepts of wireless communication and obstacle detection.
+3. Robotics: Teach concepts of wireless communication and obstacle detection. :smile:
 
 
 <p align="center">(<a href="#readme-top">back to top</a>)</p>
